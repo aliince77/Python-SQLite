@@ -1,4 +1,6 @@
-# Python-Sql-
-Python ile SQLite arasındaki iletişimi kolaylaştırmak için yazdığım program.
+# Python SQLite
+## Python ile SQLite kullanmanızı kolaylaştır !
 
-Herkes kullanabilir !
+##Herkes kullanabilir !
+
+Python ile SQLite arasındaki iletişimi kolaylaştırmak için yazdığım program.
